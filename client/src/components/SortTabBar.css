@@ -1,0 +1,9 @@
+.sorttabbar-maindiv .MuiTabs-scroller .MuiTabs-flexContainer{
+    display: flex;
+    flex-direction: column;
+   
+}
+.sorttab-postdiv .MuiPaper-root{
+    height: fit-content;
+    max-height: fit-content;
+}
